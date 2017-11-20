@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Discord</Name>
+  <Guid>bf93c983-da1f-4401-a48e-f74d353e4705</Guid>
+  <Version>0.0</Version>
+</PluginManifest>
