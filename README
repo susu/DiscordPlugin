@@ -1,0 +1,6 @@
+DiscordPlugin
+=============
+
+Discord integration plugin for [Torch](https://github.com/TorchAPI/Torch)
+
+NOTE: it is still heavily work-in-progress, not recommended for production use.
